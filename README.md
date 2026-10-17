@@ -4,7 +4,7 @@
 
 I've spent 6+ years keeping production Windows, Linux and AWS environments running
 for airline and enterprise clients, including a baggage reconciliation platform
-used at airports across Australia and New Zealand (99.9%+ availability).
+used at international airports (99.9%+ availability).
 Aviation domain: baggage reconciliation, airline DCS integration, IATA BSM/DELBSM messaging.
 Now I'm building out the DevOps side: containers, Kubernetes, IaC and CI/CD.
 
