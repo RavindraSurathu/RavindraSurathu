@@ -25,7 +25,7 @@ Now I'm building out the DevOps side: containers, Kubernetes, IaC and CI/CD.
 
 | Project | What it shows |
 | --- | --- |
-| Coming soon | Projects will be listed here as they ship |
+| [BagTrace](https://github.com/RavindraSurathu/bagtrace-devops) | 3-tier baggage-tracking app (Nginx, Python, MySQL) deployed with Shell, Ansible, Terraform on AWS, Docker Compose and Kubernetes, with GitHub Actions CI |
 
 ## Experience highlights
 
@@ -37,4 +37,4 @@ Now I'm building out the DevOps side: containers, Kubernetes, IaC and CI/CD.
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/ravindra-surathu/) · ravindra.surathu@hotmail.com
+[Portfolio](https://ravindrasurathu.github.io) · [LinkedIn](https://www.linkedin.com/in/ravindra-surathu/) · ravindra.surathu@hotmail.com
