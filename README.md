@@ -1,15 +1,16 @@
 # Hi, I'm Ravindra Surathu👋
 
-**Cloud Infrastructure & DevOps Engineer** based in Hyderabad, India.
+**Cloud & Infrastructure Engineer** based in Hyderabad, India.
 
 I've spent 6+ years keeping production Windows, Linux and AWS environments running
 for airline and enterprise clients, including a baggage reconciliation platform
 used at international airports (99.9%+ availability).
 Aviation domain: baggage reconciliation, airline DCS integration, IATA BSM/DELBSM messaging.
-Now I'm building out the DevOps side: containers, Kubernetes, IaC and CI/CD.
+Now extending into Infrastructure as Code and containers: Terraform, Docker, Kubernetes and CI/CD.
 
 ## What I work with
 
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat&logo=windows&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
@@ -19,7 +20,7 @@ Now I'm building out the DevOps side: containers, Kubernetes, IaC and CI/CD.
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=flat&logo=microsoft&logoColor=white)
 
-**Currently learning:** Docker · Kubernetes · Terraform · Jenkins · GitHub Actions
+**Building hands-on with:** Terraform · Docker · Kubernetes · GitHub Actions · Jenkins
 
 ## Projects
 
