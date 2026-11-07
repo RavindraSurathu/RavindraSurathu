@@ -44,7 +44,7 @@ used at international airports (99.9%+ availability).
 - Designed and implemented Microsoft Entra ID SSO and MFA onboarding for airline and ground-handler users
 - Developed a guest registration portal API on Microsoft Graph that automates invitations, self-registration and MFA enrolment
 - Led the MFA rollout for global airline users: identity migration, account linking and authentication troubleshooting
-- Automated patching and controlled reboots for 50+ Windows servers with Ansible and PowerShell over WinRM (~40% less manual effort)
+- Automated patching and controlled reboots for 100+ Windows servers with Ansible and PowerShell over WinRM (~80% less manual effort)
 - Migrated Domain Controllers (Windows Server 2016 to 2022) with zero downtime
 - Troubleshoot IATA baggage messages (BSM, DELBSM) between airline DCS and baggage reconciliation
 
